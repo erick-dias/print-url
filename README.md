@@ -34,24 +34,23 @@ No diretório frontend:
 
 
 cd frontend
+
 npm install
 No diretório backend:
 
 
-cd ../backend
+cd backend
 npm install
+
 Execute o backend:
 
 No diretório backend, execute:
-
-
 npm start
 O backend estará rodando em http://localhost:3001.
 
 Execute o frontend:
 
 No diretório frontend, execute:
-
 
 npm run dev
 O frontend estará rodando em http://localhost:5173.

@@ -133,25 +133,7 @@ export default function App() {
           </center>
         </div>
       )}
-
-      {/* Estilos para o spinner animado */}
-      <style>
-        {`
-          .loader {
-            border: 4px solid #f3f3f3; /* Cor do spinner */
-            border-top: 4px solid #646cff; /* Cor da animação */
-            border-radius: 50%;
-            width: 20px;
-            height: 20px;
-            animation: spin 1s linear infinite; /* Animação de rotação */
-          }
-
-          @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-          }
-        `}
-      </style>
+     
     </div>
   );
 }

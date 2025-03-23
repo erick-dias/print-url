@@ -127,12 +127,7 @@ Abra um Pull Request.
 📄 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-🙏 Agradecimentos
-Puppeteer por fornecer uma API poderosa para captura de tela.
 
-Vite por tornar o desenvolvimento frontend mais rápido e eficiente.
-
-Tailwind CSS por simplificar a estilização do projeto.
 
 
 

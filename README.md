@@ -2,6 +2,10 @@
 # Captura de Tela de URL
 
 Este projeto permite capturar screenshots de páginas da web a partir de uma URL fornecida pelo usuário. Ele utiliza **React** no frontend e **Node.js** com **Puppeteer** no backend para realizar a captura de tela.
+![image](https://github.com/user-attachments/assets/f520e374-f8f8-4a2c-931b-e218d8870dee)
+
+![image](https://github.com/user-attachments/assets/24e61f30-e9b4-44ad-bf62-1073c867d52c)
+
 
 ---
 
